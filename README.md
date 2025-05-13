@@ -49,4 +49,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Christian Jaramillo
 Joselyn Pillajo
-Kenet Toapanta
+Kenneth Toapanta
